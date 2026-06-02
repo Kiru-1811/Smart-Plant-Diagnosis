@@ -1,0 +1,82 @@
+[
+ {
+  "disease_name":"bacterial_leaf_blight",
+  "organic_fertilizer":"Farmyard Manure",
+  "bio_pesticide":"Bacillus Subtilis",
+  "dosage":"10ml/litre",
+  "crop_rotation":"Maize",
+  "prevention":"Maintain proper drainage"
+ },
+ {
+  "disease_name":"bacterial_leaf_streak",
+  "organic_fertilizer":"Compost",
+  "bio_pesticide":"Pseudomonas Fluorescens",
+  "dosage":"5g/litre",
+  "crop_rotation":"Pulses",
+  "prevention":"Use disease-free seeds"
+ },
+ {
+  "disease_name":"bacterial_panicle_blight",
+  "organic_fertilizer":"Neem Cake",
+  "bio_pesticide":"Trichoderma Viride",
+  "dosage":"200kg/acre",
+  "crop_rotation":"Groundnut",
+  "prevention":"Avoid excess nitrogen"
+ },
+ {
+  "disease_name":"blast",
+  "organic_fertilizer":"Neem Oil Cake",
+  "bio_pesticide":"Trichoderma Harzianum",
+  "dosage":"2kg/acre",
+  "crop_rotation":"Legumes",
+  "prevention":"Balanced fertilization"
+ },
+ {
+  "disease_name":"brown_spot",
+  "organic_fertilizer":"Vermicompost",
+  "bio_pesticide":"Pseudomonas Fluorescens",
+  "dosage":"5g/litre",
+  "crop_rotation":"Sesame",
+  "prevention":"Use resistant varieties"
+ },
+ {
+  "disease_name":"dead_heart",
+  "organic_fertilizer":"Azolla Compost",
+  "bio_pesticide":"Neem Oil Spray",
+  "dosage":"3ml/litre",
+  "crop_rotation":"Mustard",
+  "prevention":"Control stem borer early"
+ },
+ {
+  "disease_name":"downy_mildew",
+  "organic_fertilizer":"Green Manure",
+  "bio_pesticide":"Bacillus Amyloliquefaciens",
+  "dosage":"10ml/litre",
+  "crop_rotation":"Sunflower",
+  "prevention":"Avoid high humidity"
+ },
+ {
+  "disease_name":"hispa",
+  "organic_fertilizer":"Bio Compost",
+  "bio_pesticide":"Neem Extract",
+  "dosage":"5ml/litre",
+  "crop_rotation":"Pulses",
+  "prevention":"Regular field monitoring"
+ },
+ {
+  "disease_name":"tungro",
+  "organic_fertilizer":"Vermicompost",
+  "bio_pesticide":"Neem Oil Spray",
+  "dosage":"5ml/litre",
+  "crop_rotation":"Legumes",
+  "prevention":"Control leafhopper vector"
+ },
+ {
+  "disease_name":"normal",
+  "organic_fertilizer":"Maintain balanced nutrition",
+  "bio_pesticide":"Not Required",
+  "dosage":"N/A",
+  "crop_rotation":"Continue seasonal rotation",
+  "prevention":"Regular monitoring"
+ }
+]
